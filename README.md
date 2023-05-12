@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jarrett Stavey</h1>
 <h3 align="center">A junior web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstavey13" alt="jstavey13" /></a> </p>
+
 
 - 🔭 I’m currently working on [PandaCritic 2.0](https://github.com/tanglero4/PandaCritic-2.0)
 
